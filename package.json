@@ -1,0 +1,28 @@
+{
+  "name": "go-normal-stack",
+  "version": "1.0.0",
+  "description": "Normalizes the lines of an error stack over the working dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgo/go-normal-stack.git"
+  },
+  "keywords": [
+    "error",
+    "stack",
+    "path",
+    "normalize"
+  ],
+  "author": "Igor Gorodetskyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorgo/go-normal-stack/issues"
+  },
+  "homepage": "https://github.com/igorgo/go-normal-stack#readme",
+  "devDependencies": {
+    "ava": "^0.23.0"
+  }
+}
